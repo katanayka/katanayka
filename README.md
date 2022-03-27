@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shenanidog
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning java, python A.I., web
+- 📫 How to reach me katanayka@shenani.ml, pesok#9993
