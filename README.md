@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @shenanidog
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning java, python A.I., web
-- 📫 How to reach me katanayka@shenani.ml, pesok#9993
+<p align="center">
+  <samp><sub><p1>
+    Hi, I'm <a href="https://github.com/shenanidog">pes</a> 👋<br>
+    I'm 19 y.o. russian clown<br>
+    Learning <strong>[C++], [Java], [Python]</strong><br>
+    telegram: <a href="https://tg.me/katanayka">@katanayka</a> | discord: pes#9993<br>
+  </sub></samp>[eq</p1>
+</p>
