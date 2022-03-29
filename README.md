@@ -6,5 +6,4 @@
     Learning <strong>[C++], [Java], [Python]</strong><br>
     telegram: <a href="https://t.me/katanayka">@katanayka</a> | discord: pes#9993<br><br>
   </sub></samp>
-  <img src="https://github.com/katanayka/katanayka/blob/main/funny_pictures/asuka.gif" width="200"/>
 </p>
