@@ -5,5 +5,5 @@
     Learning [Java], [Python]<br>
     telegram: <a href="https://t.me/katanayka">@katanayka</a> | discord: <a href="https://discord.com">pes#9993</a><br><br>
   </samp>
-  <img src="https://github.com/katanayka/katanayka/blob/main/funny_pictures/asuka.gif" width="100"/> <br>
+  <img src="https://github.com/katanayka/katanayka/blob/main/funny_pictures/asuka.gif" width="130"/> <br>
 </p>
